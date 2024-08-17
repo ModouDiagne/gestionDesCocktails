@@ -58,9 +58,9 @@ Configurez vos informations de base de données dans le fichier `.env` :
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=cocktails_db
-DB_USERNAME=pape
-DB_PASSWORD=0000
+DB_DATABASE=votre base de donnes
+DB_USERNAME=votre nom d'utilisateur
+DB_PASSWORD=mot de passe
 ```
 
 ### Étape 4 : Migrer la base de données
