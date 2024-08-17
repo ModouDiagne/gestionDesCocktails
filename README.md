@@ -135,6 +135,6 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 
 ## Auteurs
 
-- **Modou Diagne** - Développeur backend.
+- **Modou Diagne** - Développeur web.
 
 
