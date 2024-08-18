@@ -100,14 +100,8 @@ Vous pouvez utiliser **Postman** pour tester ces endpoints. Voici un exemple de 
 ```json
 {
     "name": "Mojito",
-    "ingredients": [
-        "Rhum",
-        "Menthe",
-        "Citron Vert",
-        "Sucre",
-        "Eau gazeuse"
-    ],
-    "instructions": "Mélanger le tout dans un verre avec des glaçons."
+    "image_url": "http://example.com/mojito.jpg",
+    "description": "A refreshing cocktail with mint and lime."
 }
 ```
 
