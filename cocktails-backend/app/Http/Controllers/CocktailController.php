@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 use App\Services\CocktailService; // Assure-toi que cette classe est correctement importée
 use App\Models\Cocktail; // Assure-toi que cette classe est correctement importée
 use Illuminate\Routing\Controller;
+use App\Http\Requests\CocktailRequest;
 
 class CocktailController extends Controller
 {
